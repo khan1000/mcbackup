@@ -1,0 +1,17 @@
+{
+	id: "8a26070b-6f59-4f24-96fc-9e929058ac3d"
+	type: "player"
+	player_name: "tayyab43"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "tayyab43"
+		"ftbteams:color": "#FF59BF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

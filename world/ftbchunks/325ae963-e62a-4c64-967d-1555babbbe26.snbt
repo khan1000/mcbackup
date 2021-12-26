@@ -1,0 +1,52 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	extra_claim_chunks: 0
+	extra_force_load_chunks: 0
+	chunk_load_offline: true
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 18, z: 302, time: 1637197604078L, force_loaded: 1637855411933L }
+			{ x: 18, z: 303, time: 1637805125391L, force_loaded: 1637855411933L }
+			{ x: 16, z: 302, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 18, z: 304, time: 1637805125391L, force_loaded: 1637855411933L }
+			{ x: 16, z: 303, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 18, z: 305, time: 1637855401478L, force_loaded: 1637855411933L }
+			{ x: 14, z: 306, time: 1637197604078L }
+			{ x: 12, z: 304, time: 1637805109576L }
+			{ x: 12, z: 305, time: 1637805109576L }
+			{ x: 14, z: 307, time: 1637873324788L }
+			{ x: 12, z: 306, time: 1637805109576L }
+			{ x: 14, z: 302, time: 1637197604078L }
+			{ x: 16, z: 304, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 16, z: 305, time: 1637197604078L, force_loaded: 1637283551632L }
+			{ x: 14, z: 303, time: 1637855450039L, force_loaded: 1637855454078L }
+			{ x: 16, z: 306, time: 1637197604078L, force_loaded: 1637855416381L }
+			{ x: 12, z: 302, time: 1637805109576L }
+			{ x: 14, z: 304, time: 1637855450039L, force_loaded: 1637855454078L }
+			{ x: 12, z: 303, time: 1637805109576L }
+			{ x: 14, z: 305, time: 1637855458225L, force_loaded: 1637855458678L }
+			{ x: 16, z: 307, time: 1637856151527L }
+			{ x: 19, z: 303, time: 1637855431185L, force_loaded: 1637855431836L }
+			{ x: 17, z: 302, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 19, z: 304, time: 1637855431477L, force_loaded: 1637855432128L }
+			{ x: 17, z: 303, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 15, z: 302, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 17, z: 304, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 13, z: 305, time: 1637805109576L }
+			{ x: 15, z: 307, time: 1637856221444L }
+			{ x: 13, z: 306, time: 1637805109576L }
+			{ x: 15, z: 303, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 17, z: 305, time: 1637197604078L, force_loaded: 1637283551632L }
+			{ x: 15, z: 304, time: 1637197604078L, force_loaded: 1637283545129L }
+			{ x: 17, z: 306, time: 1637197604078L, force_loaded: 1637855416381L }
+			{ x: 13, z: 302, time: 1637855407143L }
+			{ x: 15, z: 305, time: 1637197604078L, force_loaded: 1637283551632L }
+			{ x: 13, z: 303, time: 1637805109576L }
+			{ x: 17, z: 307, time: 1637856151527L }
+			{ x: 15, z: 306, time: 1637197604078L, force_loaded: 1637855416381L }
+			{ x: 13, z: 304, time: 1637805109576L }
+		]
+		"minecraft:the_nether": [{ x: 2, z: 37, time: 1637856688355L, force_loaded: 1637856688838L }]
+	}
+}

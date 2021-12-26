@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "b810af1bc5764a5eba71a7dc26815b5e"
+	name: "khan1000"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

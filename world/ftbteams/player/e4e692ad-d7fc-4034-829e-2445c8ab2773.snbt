@@ -1,0 +1,17 @@
+{
+	id: "e4e692ad-d7fc-4034-829e-2445c8ab2773"
+	type: "player"
+	player_name: "pontusgul"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "pontusgul"
+		"ftbteams:color": "#FF5963"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

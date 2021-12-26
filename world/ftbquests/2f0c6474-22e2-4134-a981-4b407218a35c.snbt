@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "2f0c647422e24134a9814b407218a35c"
+	name: "HalalGamer1999"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

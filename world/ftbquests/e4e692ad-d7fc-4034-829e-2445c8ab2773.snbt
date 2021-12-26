@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "e4e692add7fc4034829e2445c8ab2773"
+	name: "pontusgul"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

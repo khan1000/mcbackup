@@ -1,0 +1,30 @@
+{
+	id: "325ae963-e62a-4c64-967d-1555babbbe26"
+	type: "party"
+	owner: "b810af1b-c576-4a5e-ba71-a7dc26815b5e"
+	ranks: {
+		e4e692ad-d7fc-4034-829e-2445c8ab2773: "member"
+		b810af1b-c576-4a5e-ba71-a7dc26815b5e: "owner"
+		850cf4cc-1978-4cfa-b0d7-7af6fb808be2: "member"
+		8a26070b-6f59-4f24-96fc-9e929058ac3d: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "khan1000's Party"
+		"ftbteams:color": "#59FFFA"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 1b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1637197556711L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"khan1000\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "b810af1b-c576-4a5e-ba71-a7dc26815b5e", date: 1637268484936L, text: "{\"color\":\"green\",\"text\":\"Invited ArrowAssassin14\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1637268488432L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"ArrowAssassin14\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "b810af1b-c576-4a5e-ba71-a7dc26815b5e", date: 1637275589571L, text: "{\"color\":\"green\",\"text\":\"Invited pontusgul\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1637275593386L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"pontusgul\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "b810af1b-c576-4a5e-ba71-a7dc26815b5e", date: 1637369383356L, text: "{\"color\":\"green\",\"text\":\"Invited tayyab43\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1637369551048L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"tayyab43\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

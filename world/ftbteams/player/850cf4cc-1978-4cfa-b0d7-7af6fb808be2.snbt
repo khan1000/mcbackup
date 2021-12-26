@@ -1,0 +1,17 @@
+{
+	id: "850cf4cc-1978-4cfa-b0d7-7af6fb808be2"
+	type: "player"
+	player_name: "ArrowAssassin14"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ArrowAssassin14"
+		"ftbteams:color": "#59ADFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

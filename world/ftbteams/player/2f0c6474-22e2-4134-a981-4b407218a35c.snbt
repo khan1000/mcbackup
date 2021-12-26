@@ -1,0 +1,19 @@
+{
+	id: "2f0c6474-22e2-4134-a981-4b407218a35c"
+	type: "player"
+	player_name: "HalalGamer1999"
+	ranks: {
+		2f0c6474-22e2-4134-a981-4b407218a35c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "HalalGamer1999"
+		"ftbteams:color": "#59FFA4"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "8a26070b6f594f2496fc9e929058ac3d"
+	name: "tayyab43"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

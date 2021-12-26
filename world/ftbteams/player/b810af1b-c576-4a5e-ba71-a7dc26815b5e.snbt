@@ -1,0 +1,17 @@
+{
+	id: "b810af1b-c576-4a5e-ba71-a7dc26815b5e"
+	type: "player"
+	player_name: "khan1000"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "khan1000"
+		"ftbteams:color": "#FFD059"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

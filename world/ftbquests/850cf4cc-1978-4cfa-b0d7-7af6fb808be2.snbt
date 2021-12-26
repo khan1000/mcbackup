@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "850cf4cc19784cfab0d77af6fb808be2"
+	name: "ArrowAssassin14"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
